@@ -80,7 +80,7 @@ Water and climate; food and land; migration and mixture; household and gender; c
 
 **S11 — Northern Regional Kingdoms (121–132).** Rajput lineages, Kashmir, the eastern kingdoms, Himalayan routes and Ghaznavid/Ghurid expansion are told without a timeless civilizational duel. Court epic and later memory are tested against inscriptions and archaeology. The Delhi Sultanate emerges from frontier institutions and subcontinental alliances, not from one battle alone.
 
-**S12 — Delhi and Frontiers (133–144).** Mamluk, Khalji, Tughluq, Sayyid and Lodi regimes share the frame with Bengal, Deccan, Gujarat, Kashmir, Nepal and frontier societies. Persianate institutions, vernacular worlds, Sufi networks, enslavement and agrarian change complicate conquest-only narratives. Sultanate fragmentation becomes regional creativity, not an intermission before Mughals.
+**S12 — Delhi and Frontiers (133–144).** Mamluk, Khalji and Tughluq regimes share the frame with Bengal, Deccan, Gujarat, Kashmir, Nepal and frontier societies. Persianate institutions, vernacular worlds, Sufi networks, enslavement and agrarian change complicate conquest-only narratives. Sultanate fragmentation becomes regional creativity, not an intermission before Mughals.
 
 **S13 — Regional States, 1350–1526 (145–156).** Vijayanagara, Bahmani and successor states, Bengal, Gujarat, Malwa, Mewar, Kashmir, Odisha and Assam are parallel laboratories of court, port and countryside. Architecture and devotional patronage cross political and religious lines. Babur enters an already connected and contested field.
 

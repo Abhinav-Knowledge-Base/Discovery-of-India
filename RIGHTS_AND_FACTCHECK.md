@@ -60,15 +60,15 @@ The register stores claim wording, claimant, source, counterevidence, affected e
 | Palaeolithic/environmental archaeology | Two regional specialists | 1–12 | Excavation affiliation disclosed |
 | Indus archaeology/epigraphy | India- and Pakistan-based expertise where feasible | 13–24 | No claimed decipherment interest hidden |
 | Archaeogenetics/linguistics | Genetics + archaeology + Indo-Aryan/Dravidian/Munda specialists | 25–36 | Data/sample affiliations disclosed |
-| Early religions/texts | Vedic, Buddhist, Jain and material-history expertise | 30–72 | Tradition-holder and critical scholarship distinct |
+| Early religions/texts | Vedic, Buddhist, Jain and material-history expertise | 27, 35, 44–47, 57 | Tradition-holder and critical scholarship distinct |
 | Early historic/classical | North, Deccan, Tamil, east and Sri Lanka lanes | 37–84 | No “golden age” promotional brief |
 | Early medieval | Epigraphy, agrarian, art and regional language specialists | 85–132 | Regional balance audited |
-| Sultanate/Islamicate | Persianate, vernacular, archaeology and social-history expertise | 121–56 | Communal-risk review independent |
-| Devotional/social worlds | Bhakti, Sufi, Sikh, Jain, caste and gender scholars | 94, 139, 157–68 | Community voice does not replace source criticism |
-| Mughal/early modern | Court, agrarian, Deccan, Maratha, Ahom, Sikh and oceanic | 169–92 | Parallel powers represented |
-| Colonial | Economic, legal, labour, Adivasi, gender and anti-caste | 180–204 | Imperial archive read against grain |
-| Partition | India, Pakistan and Bangladesh; gender/oral history/trauma | 193, 204–07 | No single-national panel |
-| Constitution/republic | Constitutional law, political science, social movements, economy | 203–16 | Disclose active political/party roles |
+| Sultanate/Islamicate | Persianate, vernacular, archaeology and social-history expertise | 121–156 | Communal-risk review independent |
+| Devotional/social worlds | Bhakti, Sufi, Sikh, Jain, caste and gender scholars | 157–168 | Community voice does not replace source criticism |
+| Mughal/early modern | Court, agrarian, Deccan, Maratha, Ahom, Sikh and oceanic | 169–192 | Parallel powers represented |
+| Colonial | Economic, legal, labour, Adivasi, gender and anti-caste | 191–204 | Imperial archive read against grain |
+| Partition | India, Pakistan and Bangladesh; gender/oral history/trauma | 204, 209 | No single-national panel |
+| Constitution/republic | Constitutional law, political science, social movements, economy | 205–216 | Disclose active political/party roles |
 | Languages | At least one qualified reader per source language | All | Translation reviewed independently |
 | Public/community review | Custodians and affected communities | As relevant | Advisory role and editorial boundary explicit |
 
